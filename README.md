@@ -1,6 +1,7 @@
 💻 Sobre mí
 
-Soy un apasionado del análisis de datos en búsqueda de mi primera oportunidad profesional. Recientemente completé un bootcamp intensivo en análisis de datos en Henry, donde adquirí habilidades sólidas en manipulación, visualización y análisis de datos con herramientas como Python y SQL. Me entusiasma la idea de aplicar mis conocimientos en proyectos reales y seguir aprendiendo en este campo dinámico.
+Soy un apasionado del análisis de datos en búsqueda de mi primera oportunidad profesional.
+Poseo habilidades sólidas en manipulación, visualización y análisis de datos con herramientas como Python y SQL. Me entusiasma la idea de aplicar mis conocimientos en proyectos reales y seguir aprendiendo en este campo dinámico.
 
 🛠️ Habilidades
 
