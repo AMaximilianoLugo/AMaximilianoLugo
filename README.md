@@ -1,16 +1,15 @@
-## Hi there 👋
+💻 Sobre mí
+Soy un apasionado del análisis de datos en búsqueda de mi primera oportunidad profesional. Recientemente completé un bootcamp intensivo en análisis de datos en Henry, donde adquirí habilidades sólidas en manipulación, visualización y análisis de datos con herramientas como Python y SQL. Me entusiasma la idea de aplicar mis conocimientos en proyectos reales y seguir aprendiendo en este campo dinámico.
 
-<!--
-**AMaximilianoLugo/AMaximilianoLugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Habilidades
+Lenguajes de programación: Python, SQL, HTML, CSS, JavaScript
+Herramientas de visualización: Power BI, Matplotlib, Seaborn
+Bases de datos: SQL
+Otros: Git, Jupyter Notebook, Pandas, NumPy
 
-Here are some ideas to get you started:
+🎯 Objetivos
+Estoy en busca de oportunidades para aplicar mis conocimientos en análisis de datos en un entorno profesional. Me interesa especialmente trabajar en proyectos donde pueda contribuir al análisis y la interpretación de datos para la toma de decisiones informadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto
+LinkedIn: https://www.linkedin.com/in/alexandro-maximiliano-lugo-41a3702b0/
+Correo: alex67259@gmail.com
