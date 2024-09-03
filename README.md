@@ -8,6 +8,10 @@ Lenguajes de programación: Python, SQL, HTML, CSS, JavaScript
 Herramientas de visualización: Power BI, Matplotlib, Seaborn
 Bases de datos: SQL
 Otros: Git, Jupyter Notebook, Pandas, NumPy
+
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+
 ## 🎯 Objetivos
 
 Estoy en busca de oportunidades para aplicar mis conocimientos en un entorno profesional, especialmente en proyectos donde el análisis de datos sea clave para la toma de decisiones estratégicas.
