@@ -20,4 +20,5 @@ Estoy en busca de oportunidades para aplicar mis conocimientos en un entorno pro
 ## 📫 Contacto
 
 LinkedIn: https://www.linkedin.com/in/alexandro-maximiliano-lugo-41a3702b0/
+
 Correo: alex67259@gmail.com
