@@ -9,8 +9,8 @@ Herramientas de visualización: Power BI, Matplotlib, Seaborn
 Bases de datos: SQL
 Otros: Git, Jupyter Notebook, Pandas, NumPy
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style='display: inline-block/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style='display: inline-block/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style="display: inline-block; margin-right: 10px;" />
 
 ## 🎯 Objetivos
 
