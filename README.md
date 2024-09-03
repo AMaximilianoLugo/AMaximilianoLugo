@@ -1,6 +1,6 @@
 # 💻 Sobre mí
 
-<span style='font-size: 18px;'> Soy Alexandro, un analista de datos de 22 años, argentino. Comencé a adentrarme en el mundo tech desde el desarrollo web,pero  me di cuenta de que lo que realmente me encanta es el análisis de datos. Disfruto de pulir información que inicialmente parece inentendible y, a través de un proceso de análisis, puedo encontrar patrones y tomar decisiones informadas para los stakeholders. Aunque de todas maneras el desarrollo web me sigue fascinando,por eso decidí   complementarlo con el análisis de datos para formar un gran "superpoder".
+<span style='font-size: 20px;'> Soy Alexandro, un analista de datos de 22 años, argentino. Comencé a adentrarme en el mundo tech desde el desarrollo web,pero  me di cuenta de que lo que realmente me encanta es el análisis de datos. Disfruto de pulir información que inicialmente parece inentendible y, a través de un proceso de análisis, puedo encontrar patrones y tomar decisiones informadas para los stakeholders. Aunque de todas maneras el desarrollo web me sigue fascinando,por eso decidí   complementarlo con el análisis de datos para formar un gran "superpoder".
 
 
 # 🛠️ Habilidades
